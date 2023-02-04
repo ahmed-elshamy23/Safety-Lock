@@ -7,5 +7,5 @@ This repository contains a password-proteected lock based on AVR ATmega32 microc
 >3. LCD (for user inputs).
 >4. Keypad (for accepting user inputs).
 
-## Note:
+#### Note:
 A demo video is added to test the code against different test cases.
